@@ -1,2 +1,7 @@
 # cover
-An attempt to solve set cover problem and find an application in economy and business operations analysis
+Попытка решения задачи о покрытии множества с помощью коэффициента Жаккара
+
+
+##
+Коэффициент Жаккара - метрика для сравнения похожести двух множеств.
+$J(A, B) = \dfrac{|A \cap B|}{|A \cup B|}$
